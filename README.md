@@ -37,4 +37,4 @@ The program takes an image of the screen, and parses the image using template ma
 
 Here is a video showing the execution of the AI when viewing the phone's screen
 
-<img src="https://github.com/tsierens/android_automation/blob/master/connect_me/connect_me_solved.gif" height="400" width="225">
+<img src="https://github.com/tsierens/android_automation/blob/master/connect_me/connect_me_solved.gif" height="400" width="225"> 
