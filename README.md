@@ -6,6 +6,9 @@ The android debug bridge (adb) is a debug tool that ships with the android opera
 
 I am using it to be able to view and control my phone remotely, and in some cases, fully automate it.
 
+The file `adb.py` contains various bindings for control of the android phone.
+The file `image.py` contains useful tools for image recognition and image morphology.  
+
 Included in this repository are two examples of using this library to automatically solve two different puzzle games
 
 ## Tents and Trees
